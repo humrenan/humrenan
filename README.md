@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Renan 👋
+- 🔭 I’m currently working on Stone
+- 🌱 I’m currently learning Elixir
+- 📫 How to reach me: humrenan@gmail.com
+
 
 <!--
 **humrenan/humrenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
