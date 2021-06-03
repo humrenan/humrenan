@@ -1,6 +1,11 @@
 
 ## Hi there, I'm Renan 👋
-  | Elixir Developer at <a href="http://stone.com.br/">Stone Co.</a> | Graduating in Web Systems at <a href="https://ifms.edu.br/">IFMS</a> | A Rolling Stone |
+
+<div>
+  <a href="https://github.com/humrenan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=humrenan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humrenan&layout=compact&langs_count=16&theme=dracula"/>
+<div>
   
   [![Twitter: hotwheelson](https://img.shields.io/twitter/follow/hotwheelson?style=social)](https://twitter.com/hotwheelson)
 [![Linkedin: humrenan](https://img.shields.io/badge/-humrenan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/humrenan/)](https://www.linkedin.com/in/humrenan/)
@@ -8,4 +13,3 @@
 
 
   
-  <img src="https://static01.nyt.com/images/2017/12/13/opinion/13disability/13disability-jumbo.gif" width="400" align="right">  
