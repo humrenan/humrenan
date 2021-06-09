@@ -11,7 +11,6 @@
 <br>
   </div>
   
-  [![Twitter: hotwheelson](https://img.shields.io/twitter/follow/hotwheelson?style=social)](https://twitter.com/hotwheelson)
 [![Linkedin: humrenan](https://img.shields.io/badge/-humrenan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/humrenan/)](https://www.linkedin.com/in/humrenan/)
 [![Linkedin: humrenan](https://img.shields.io/badge/-humrenan-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:humrenan@gmail.com/)](mailto:humrenan@gmail.com/)
 
