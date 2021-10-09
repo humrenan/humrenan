@@ -1,6 +1,6 @@
 
-## Hi there, I'm Renan :octocat:
-``` [{:lang, "elixir"}, {:student, "web system"}]```
+## Hi there, I'm renan :octocat:
+
 <div>
   <a href="https://github.com/humrenan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=humrenan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
