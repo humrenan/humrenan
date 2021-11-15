@@ -20,5 +20,6 @@
    <img align="center" alt="git logo" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
    <img align="center" alt="github logo" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
    <img align="center" alt="python logo" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="linux logo" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
 
    </div>
