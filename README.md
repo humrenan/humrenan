@@ -3,7 +3,7 @@
 
 [![Linkedin: humrenan](https://img.shields.io/badge/-humrenan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/humrenan/)](https://www.linkedin.com/in/humrenan/)
 [![Gmail: humrenan](https://img.shields.io/badge/-humrenan-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:humrenan@gmail.com/)](mailto:humrenan@gmail.com/)
-[![Twitter: hotwheelson](https://img.shields.io/badge/-hotwheelson-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/hotwheelson)](https://twitter.com/hotwheelson)
+[![Twitter: humrenan](https://img.shields.io/badge/-hotwheelson-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/humrenan)](https://twitter.com/humrenan)
 
 
  ---
