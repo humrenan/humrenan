@@ -1,5 +1,5 @@
 
-## hi there, I'm renan :octocat:
+## Hi there, I'm renan :octocat:
 
 [![Linkedin: humrenan](https://img.shields.io/badge/-humrenan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/humrenan/)](https://www.linkedin.com/in/humrenan/)
 [![Gmail: humrenan](https://img.shields.io/badge/-humrenan-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:humrenan@gmail.com/)](mailto:humrenan@gmail.com/)
